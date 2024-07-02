@@ -7,4 +7,4 @@
 - 복잡하다면 `tsx, ts` 파일도 상관 없고, 마크다운으로도 정리해도 좋습니당 (정해진 바가 없음)
 
 ### 어디다 공유하면 되나요?
-- [1주차 코드 리뷰](https://github.com/talmood/code-review-study/discussions/categories/-1%EC%A3%BC%EC%B0%A8-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%8A%A4%ED%84%B0%EB%94%94)
+- [1주차 코드 리뷰](https://github.com/talmood/code-review-study/discussions/categories/-1%ED%9A%8C%EC%B0%A8)
