@@ -7,4 +7,5 @@
 
 | 회차 | 주제 | 기간 |
 |------|------|------|
-| 1회차 | [더러미 코드로 리뷰해보기](https://github.com/talmood/code-review-study/blob/main/1회차/README.md) | / |
+| 1회차 | [더러미 코드로 리뷰해보기](https://github.com/talmood/code-review-study/blob/main/1회차/README.md) | 2024/07/04 |
+| 2회차 | [더러미 코드로 리뷰해보기](https://github.com/talmood/code-review-study/blob/main/2회차/README.md) | 2024/07/11 |
